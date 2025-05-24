@@ -4,7 +4,7 @@
 	//----------------------------------------------------------------------------------//
 	
 	/*  Set the URL to your Sendy installation (without the trailing slash) */
-	define('APP_PATH', 'http://palegoldenrod-porpoise-349385.hostingersite.com');
+	define('APP_PATH', 'https://palegoldenrod-porpoise-349385.hostingersite.com');
 	
 	/*  MySQL database connection credentials (please place values between the apostrophes) */
 	$dbHost = 'localhost'; //MySQL Hostname
