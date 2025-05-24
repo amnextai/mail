@@ -4,7 +4,7 @@
 	//----------------------------------------------------------------------------------//
 	
 	/*  Set the URL to your Sendy installation (without the trailing slash) */
-	define('APP_PATH', 'https://your_sendy_installation_url');
+	define('APP_PATH', 'https://mail.amnext.us');
 	
 	/*  MySQL database connection credentials (please place values between the apostrophes) */
 	$dbHost = ''; //MySQL Hostname
