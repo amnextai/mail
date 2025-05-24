@@ -4,13 +4,13 @@
 	//----------------------------------------------------------------------------------//
 	
 	/*  Set the URL to your Sendy installation (without the trailing slash) */
-	define('APP_PATH', 'https://palegoldenrod-porpoise-349385.hostingersite.com/');
+	define('APP_PATH', 'https://your_sendy_installation_url');
 	
 	/*  MySQL database connection credentials (please place values between the apostrophes) */
-	$dbHost = 'localhost'; //MySQL Hostname
-	$dbUser = 'u212625405_mailer'; //MySQL Username
-	$dbPass = 'avrasysc_sendy1A!'; //MySQL Password
-	$dbName = '	u212625405_mailer'; //MySQL Database Name
+	$dbHost = ''; //MySQL Hostname
+	$dbUser = ''; //MySQL Username
+	$dbPass = ''; //MySQL Password
+	$dbName = ''; //MySQL Database Name
 	
 	
 	//----------------------------------------------------------------------------------//	
