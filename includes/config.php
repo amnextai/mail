@@ -7,7 +7,7 @@
 	define('APP_PATH', 'https://mail.amnext.us');
 	
 	/*  MySQL database connection credentials (please place values between the apostrophes) */
-	$dbHost = ''; //MySQL Hostname
+	$dbHost = 'localhost'; //MySQL Hostname
 	$dbUser = ''; //MySQL Username
 	$dbPass = ''; //MySQL Password
 	$dbName = ''; //MySQL Database Name
