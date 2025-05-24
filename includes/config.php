@@ -4,13 +4,13 @@
 	//----------------------------------------------------------------------------------//
 	
 	/*  Set the URL to your Sendy installation (without the trailing slash) */
-	define('APP_PATH', 'https://peru-sparrow-139371.hostingersite.com/');
+	define('APP_PATH', 'https://white-zebra-871822.hostingersite.com');
 	
 	/*  MySQL database connection credentials (please place values between the apostrophes) */
 	$dbHost = 'localhost'; //MySQL Hostname
-	$dbUser = 'u484932668_avrasysc_sendy'; //MySQL Username
+	$dbUser = 'u212625405_testy'; //MySQL Username
 	$dbPass = 'avrasysc_sendy1A!'; //MySQL Password
-	$dbName = 'u484932668_sendy'; //MySQL Database Name
+	$dbName = '	u212625405_testy'; //MySQL Database Name
 	
 	
 	//----------------------------------------------------------------------------------//	
